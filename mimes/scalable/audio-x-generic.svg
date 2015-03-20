@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="96"
+   height="96"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="audio-x-generic2.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5233">
+      <stop
+         style="stop-color:#ffea3e;stop-opacity:1;"
+         offset="0"
+         id="stop5235" />
+      <stop
+         id="stop5243"
+         offset="0.25"
+         style="stop-color:#e4301b;stop-opacity:1;" />
+      <stop
+         id="stop5241"
+         offset="0.5"
+         style="stop-color:#852cbf;stop-opacity:1;" />
+      <stop
+         style="stop-color:#13215d;stop-opacity:1;"
+         offset="1"
+         id="stop5237" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3784">
+      <stop
+         style="stop-color:#464646;stop-opacity:1;"
+         offset="0"
+         id="stop3786" />
+      <stop
+         style="stop-color:#6e6e6e;stop-opacity:1;"
+         offset="1"
+         id="stop3788" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3776">
+      <stop
+         style="stop-color:#fafafa;stop-opacity:1;"
+         offset="0"
+         id="stop3778" />
+      <stop
+         style="stop-color:#c8c8c8;stop-opacity:1;"
+         offset="1"
+         id="stop3780" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3817">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3819" />
+      <stop
+         id="stop3827"
+         offset="0.05455951"
+         style="stop-color:#ffffff;stop-opacity:0.23529412;" />
+      <stop
+         id="stop3825"
+         offset="0.95526141"
+         style="stop-color:#ffffff;stop-opacity:0.15686275;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.39215687;"
+         offset="1"
+         id="stop3821" />
+    </linearGradient>
+    <radialGradient
+       cx="4.9929786"
+       cy="43.5"
+       r="2.5"
+       fx="4.9929786"
+       fy="43.5"
+       id="radialGradient2873-966-168"
+       xlink:href="#linearGradient3688-166-749"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.003784,0,0,1.4,27.98813,-17.4)" />
+    <linearGradient
+       id="linearGradient3688-166-749">
+      <stop
+         id="stop2883"
+         style="stop-color:#181818;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop2885"
+         style="stop-color:#181818;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="4.9929786"
+       cy="43.5"
+       r="2.5"
+       fx="4.9929786"
+       fy="43.5"
+       id="radialGradient2875-742-326"
+       xlink:href="#linearGradient3688-464-309"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.003784,0,0,1.4,-20.01187,-104.4)" />
+    <linearGradient
+       id="linearGradient3688-464-309">
+      <stop
+         id="stop2889"
+         style="stop-color:#181818;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop2891"
+         style="stop-color:#181818;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="25.058096"
+       y1="47.027729"
+       x2="25.058096"
+       y2="39.999443"
+       id="linearGradient2877-634-617"
+       xlink:href="#linearGradient3702-501-757"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3702-501-757">
+      <stop
+         id="stop2895"
+         style="stop-color:#181818;stop-opacity:0"
+         offset="0" />
+      <stop
+         id="stop2897"
+         style="stop-color:#181818;stop-opacity:1"
+         offset="0.5" />
+      <stop
+         id="stop2899"
+         style="stop-color:#181818;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3817"
+       id="linearGradient3823"
+       x1="47.214287"
+       y1="965.25507"
+       x2="47.214287"
+       y2="1042.9185"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3776"
+       id="radialGradient3782"
+       cx="48"
+       cy="972.2193"
+       fx="48"
+       fy="972.2193"
+       r="40"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.4803786e-6,2.0089335,-1.9107351,-1.4080164e-6,1905.6537,875.79186)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3784"
+       id="linearGradient3790"
+       x1="25.5"
+       y1="1043.2981"
+       x2="25.5"
+       y2="964.7193"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5233"
+       id="linearGradient5239"
+       x1="46.75"
+       y1="13"
+       x2="46.75"
+       y2="84.007042"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5233"
+       id="linearGradient5770"
+       x1="171"
+       y1="14"
+       x2="171"
+       y2="79.324188"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-121.5,3.99998)" />
+    <linearGradient
+       y2="30.875431"
+       x2="23"
+       y1="12.75"
+       x1="23"
+       gradientTransform="matrix(2,0,0,2,1.9999985,960.36218)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4079"
+       xlink:href="#linearGradient3990"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3990">
+      <stop
+         offset="0"
+         style="stop-color:#505050;stop-opacity:1;"
+         id="stop3992" />
+      <stop
+         offset="1"
+         style="stop-color:#141414;stop-opacity:1;"
+         id="stop3994" />
+    </linearGradient>
+    <linearGradient
+       y2="30.875431"
+       x2="23"
+       y1="12.75"
+       x1="23"
+       gradientTransform="matrix(2,0,0,2,-9.9999999e-7,960.86215)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3814"
+       xlink:href="#linearGradient3990"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="53.193553"
+     inkscape:cy="54.395075"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="756"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-956.36218)">
+    <g
+       style="display:inline"
+       id="g2036"
+       transform="matrix(2.1999991,0,0,0.88888944,-4.8000008,1006.5844)">
+      <g
+         style="opacity:0.4"
+         id="g3712"
+         transform="matrix(1.052632,0,0,1.285713,-1.263158,-13.42854)">
+        <rect
+           style="fill:url(#radialGradient2873-966-168);fill-opacity:1;stroke:none"
+           id="rect2801"
+           y="40"
+           x="38"
+           height="7"
+           width="5" />
+        <rect
+           style="fill:url(#radialGradient2875-742-326);fill-opacity:1;stroke:none"
+           id="rect3696"
+           transform="scale(-1,-1)"
+           y="-47"
+           x="-10"
+           height="7"
+           width="5" />
+        <rect
+           style="fill:url(#linearGradient2877-634-617);fill-opacity:1;stroke:none"
+           id="rect3700"
+           y="40"
+           x="10"
+           height="7.0000005"
+           width="28" />
+      </g>
+    </g>
+    <rect
+       style="fill:url(#radialGradient3782);fill-opacity:1;stroke:url(#linearGradient3790);stroke-opacity:1"
+       id="rect2985"
+       width="79"
+       height="79"
+       x="8.5"
+       y="964.86218"
+       rx="3"
+       ry="3" />
+    <rect
+       ry="2"
+       rx="2"
+       y="965.86218"
+       x="9.5"
+       height="77"
+       width="77"
+       id="rect3815"
+       style="fill:none;stroke:url(#linearGradient3823);stroke-opacity:1;opacity:0.50000000000000000" />
+    <path
+       style="fill:url(#linearGradient5239);fill-opacity:1;stroke:none;opacity:0.20000000000000001"
+       d="M 11 13 L 11 15 L 15 15 L 15 13 L 11 13 z M 16 13 L 16 15 L 20 15 L 20 13 L 16 13 z M 21 13 L 21 15 L 25 15 L 25 13 L 21 13 z M 26 13 L 26 15 L 30 15 L 30 13 L 26 13 z M 31 13 L 31 15 L 35 15 L 35 13 L 31 13 z M 36 13 L 36 15 L 40 15 L 40 13 L 36 13 z M 41 13 L 41 15 L 45 15 L 45 13 L 41 13 z M 46 13 L 46 15 L 50 15 L 50 13 L 46 13 z M 51 13 L 51 15 L 55 15 L 55 13 L 51 13 z M 56 13 L 56 15 L 60 15 L 60 13 L 56 13 z M 61 13 L 61 15 L 65 15 L 65 13 L 61 13 z M 66 13 L 66 15 L 70 15 L 70 13 L 66 13 z M 71 13 L 71 15 L 75 15 L 75 13 L 71 13 z M 76 13 L 76 15 L 80 15 L 80 13 L 76 13 z M 81 13 L 81 15 L 85 15 L 85 13 L 81 13 z M 11 16 L 11 18 L 15 18 L 15 16 L 11 16 z M 16 16 L 16 18 L 20 18 L 20 16 L 16 16 z M 21 16 L 21 18 L 25 18 L 25 16 L 21 16 z M 26 16 L 26 18 L 30 18 L 30 16 L 26 16 z M 31 16 L 31 18 L 35 18 L 35 16 L 31 16 z M 36 16 L 36 18 L 40 18 L 40 16 L 36 16 z M 41 16 L 41 18 L 45 18 L 45 16 L 41 16 z M 46 16 L 46 18 L 50 18 L 50 16 L 46 16 z M 51 16 L 51 18 L 55 18 L 55 16 L 51 16 z M 56 16 L 56 18 L 60 18 L 60 16 L 56 16 z M 61 16 L 61 18 L 65 18 L 65 16 L 61 16 z M 66 16 L 66 18 L 70 18 L 70 16 L 66 16 z M 71 16 L 71 18 L 75 18 L 75 16 L 71 16 z M 76 16 L 76 18 L 80 18 L 80 16 L 76 16 z M 81 16 L 81 18 L 85 18 L 85 16 L 81 16 z M 11 19 L 11 21 L 15 21 L 15 19 L 11 19 z M 16 19 L 16 21 L 20 21 L 20 19 L 16 19 z M 21 19 L 21 21 L 25 21 L 25 19 L 21 19 z M 26 19 L 26 21 L 30 21 L 30 19 L 26 19 z M 31 19 L 31 21 L 35 21 L 35 19 L 31 19 z M 36 19 L 36 21 L 40 21 L 40 19 L 36 19 z M 41 19 L 41 21 L 45 21 L 45 19 L 41 19 z M 46 19 L 46 21 L 50 21 L 50 19 L 46 19 z M 51 19 L 51 21 L 55 21 L 55 19 L 51 19 z M 56 19 L 56 21 L 60 21 L 60 19 L 56 19 z M 61 19 L 61 21 L 65 21 L 65 19 L 61 19 z M 66 19 L 66 21 L 70 21 L 70 19 L 66 19 z M 71 19 L 71 21 L 75 21 L 75 19 L 71 19 z M 76 19 L 76 21 L 80 21 L 80 19 L 76 19 z M 81 19 L 81 21 L 85 21 L 85 19 L 81 19 z M 11 22 L 11 24 L 15 24 L 15 22 L 11 22 z M 16 22 L 16 24 L 20 24 L 20 22 L 16 22 z M 21 22 L 21 24 L 25 24 L 25 22 L 21 22 z M 26 22 L 26 24 L 30 24 L 30 22 L 26 22 z M 31 22 L 31 24 L 35 24 L 35 22 L 31 22 z M 36 22 L 36 24 L 40 24 L 40 22 L 36 22 z M 41 22 L 41 24 L 45 24 L 45 22 L 41 22 z M 46 22 L 46 24 L 50 24 L 50 22 L 46 22 z M 51 22 L 51 24 L 55 24 L 55 22 L 51 22 z M 56 22 L 56 24 L 60 24 L 60 22 L 56 22 z M 61 22 L 61 24 L 65 24 L 65 22 L 61 22 z M 66 22 L 66 24 L 70 24 L 70 22 L 66 22 z M 71 22 L 71 24 L 75 24 L 75 22 L 71 22 z M 76 22 L 76 24 L 80 24 L 80 22 L 76 22 z M 81 22 L 81 24 L 85 24 L 85 22 L 81 22 z M 11 25 L 11 27 L 15 27 L 15 25 L 11 25 z M 16 25 L 16 27 L 20 27 L 20 25 L 16 25 z M 21 25 L 21 27 L 25 27 L 25 25 L 21 25 z M 26 25 L 26 27 L 30 27 L 30 25 L 26 25 z M 31 25 L 31 27 L 35 27 L 35 25 L 31 25 z M 36 25 L 36 27 L 40 27 L 40 25 L 36 25 z M 41 25 L 41 27 L 45 27 L 45 25 L 41 25 z M 46 25 L 46 27 L 50 27 L 50 25 L 46 25 z M 51 25 L 51 27 L 55 27 L 55 25 L 51 25 z M 56 25 L 56 27 L 60 27 L 60 25 L 56 25 z M 61 25 L 61 27 L 65 27 L 65 25 L 61 25 z M 66 25 L 66 27 L 70 27 L 70 25 L 66 25 z M 71 25 L 71 27 L 75 27 L 75 25 L 71 25 z M 76 25 L 76 27 L 80 27 L 80 25 L 76 25 z M 81 25 L 81 27 L 85 27 L 85 25 L 81 25 z M 11 28 L 11 30 L 15 30 L 15 28 L 11 28 z M 16 28 L 16 30 L 20 30 L 20 28 L 16 28 z M 21 28 L 21 30 L 25 30 L 25 28 L 21 28 z M 26 28 L 26 30 L 30 30 L 30 28 L 26 28 z M 31 28 L 31 30 L 35 30 L 35 28 L 31 28 z M 36 28 L 36 30 L 36.5 30 L 36.5 29 L 38 29 L 40 29 L 40 28 L 36 28 z M 41 28 L 41 29 L 45 29 L 45 28 L 41 28 z M 46 28 L 46 29 L 50 29 L 50 28 L 46 28 z M 51 28 L 51 29 L 55 29 L 55 28 L 51 28 z M 56 28 L 56 29 L 60 29 L 60 28 L 56 28 z M 61 28 L 61 29 L 64 29 L 65 29 L 65 28 L 61 28 z M 66 28 L 66 30 L 70 30 L 70 28 L 66 28 z M 71 28 L 71 30 L 75 30 L 75 28 L 71 28 z M 76 28 L 76 30 L 80 30 L 80 28 L 76 28 z M 81 28 L 81 30 L 85 30 L 85 28 L 81 28 z M 11 31 L 11 33 L 15 33 L 15 31 L 11 31 z M 16 31 L 16 33 L 20 33 L 20 31 L 16 31 z M 21 31 L 21 33 L 25 33 L 25 31 L 21 31 z M 26 31 L 26 33 L 30 33 L 30 31 L 26 31 z M 31 31 L 31 33 L 35 33 L 35 31 L 31 31 z M 36 31 L 36 33 L 36.5 33 L 36.5 31 L 36 31 z M 66 31 L 66 33 L 70 33 L 70 31 L 66 31 z M 71 31 L 71 33 L 75 33 L 75 31 L 71 31 z M 76 31 L 76 33 L 80 33 L 80 31 L 76 31 z M 81 31 L 81 33 L 85 33 L 85 31 L 81 31 z M 11 34 L 11 36 L 15 36 L 15 34 L 11 34 z M 16 34 L 16 36 L 20 36 L 20 34 L 16 34 z M 21 34 L 21 36 L 25 36 L 25 34 L 21 34 z M 26 34 L 26 36 L 30 36 L 30 34 L 26 34 z M 31 34 L 31 36 L 35 36 L 35 34 L 31 34 z M 36 34 L 36 36 L 36.5 36 L 36.5 34 L 36 34 z M 66 34 L 66 36 L 70 36 L 70 34 L 66 34 z M 71 34 L 71 36 L 75 36 L 75 34 L 71 34 z M 76 34 L 76 36 L 80 36 L 80 34 L 76 34 z M 81 34 L 81 36 L 85 36 L 85 34 L 81 34 z M 11 37 L 11 39 L 15 39 L 15 37 L 11 37 z M 16 37 L 16 39 L 20 39 L 20 37 L 16 37 z M 21 37 L 21 39 L 25 39 L 25 37 L 21 37 z M 26 37 L 26 39 L 30 39 L 30 37 L 26 37 z M 31 37 L 31 39 L 35 39 L 35 37 L 31 37 z M 36 37 L 36 39 L 36.5 39 L 36.5 38.5 L 36.5 37 L 36 37 z M 66 37 L 66 39 L 70 39 L 70 37 L 66 37 z M 71 37 L 71 39 L 75 39 L 75 37 L 71 37 z M 76 37 L 76 39 L 80 39 L 80 37 L 76 37 z M 81 37 L 81 39 L 85 39 L 85 37 L 81 37 z M 11 40 L 11 42 L 15 42 L 15 40 L 11 40 z M 16 40 L 16 42 L 20 42 L 20 40 L 16 40 z M 21 40 L 21 42 L 25 42 L 25 40 L 21 40 z M 26 40 L 26 42 L 30 42 L 30 40 L 26 40 z M 31 40 L 31 42 L 35 42 L 35 40 L 31 40 z M 36 40 L 36 42 L 36.5 42 L 36.5 40 L 36 40 z M 43.5 40 L 43.5 42 L 45 42 L 45 40 L 43.5 40 z M 46 40 L 46 42 L 50 42 L 50 40 L 46 40 z M 51 40 L 51 42 L 55 42 L 55 40 L 51 40 z M 56 40 L 56 42 L 58.5 42 L 58.5 40 L 56 40 z M 66 40 L 66 42 L 70 42 L 70 40 L 66 40 z M 71 40 L 71 42 L 75 42 L 75 40 L 71 40 z M 76 40 L 76 42 L 80 42 L 80 40 L 76 40 z M 81 40 L 81 42 L 85 42 L 85 40 L 81 40 z M 11 43 L 11 45 L 15 45 L 15 43 L 11 43 z M 16 43 L 16 45 L 20 45 L 20 43 L 16 43 z M 21 43 L 21 45 L 25 45 L 25 43 L 21 43 z M 26 43 L 26 45 L 30 45 L 30 43 L 26 43 z M 31 43 L 31 45 L 35 45 L 35 43 L 31 43 z M 36 43 L 36 45 L 36.5 45 L 36.5 43 L 36 43 z M 43.5 43 L 43.5 45 L 45 45 L 45 43 L 43.5 43 z M 46 43 L 46 45 L 50 45 L 50 43 L 46 43 z M 51 43 L 51 45 L 55 45 L 55 43 L 51 43 z M 56 43 L 56 45 L 58.5 45 L 58.5 43 L 56 43 z M 66 43 L 66 45 L 70 45 L 70 43 L 66 43 z M 71 43 L 71 45 L 75 45 L 75 43 L 71 43 z M 76 43 L 76 45 L 80 45 L 80 43 L 76 43 z M 81 43 L 81 45 L 85 45 L 85 43 L 81 43 z M 11 46 L 11 48 L 15 48 L 15 46 L 11 46 z M 16 46 L 16 48 L 20 48 L 20 46 L 16 46 z M 21 46 L 21 48 L 25 48 L 25 46 L 21 46 z M 26 46 L 26 48 L 30 48 L 30 46 L 26 46 z M 31 46 L 31 48 L 35 48 L 35 46 L 31 46 z M 36 46 L 36 48 L 36.5 48 L 36.5 46 L 36 46 z M 43.5 46 L 43.5 48 L 45 48 L 45 46 L 43.5 46 z M 46 46 L 46 48 L 50 48 L 50 46 L 46 46 z M 51 46 L 51 48 L 55 48 L 55 46 L 51 46 z M 56 46 L 56 48 L 58.5 48 L 58.5 46 L 56 46 z M 66 46 L 66 48 L 70 48 L 70 46 L 66 46 z M 71 46 L 71 48 L 75 48 L 75 46 L 71 46 z M 76 46 L 76 48 L 80 48 L 80 46 L 76 46 z M 81 46 L 81 48 L 85 48 L 85 46 L 81 46 z M 11 49 L 11 51 L 15 51 L 15 49 L 11 49 z M 16 49 L 16 51 L 20 51 L 20 49 L 16 49 z M 21 49 L 21 51 L 25 51 L 25 49 L 21 49 z M 26 49 L 26 51 L 27.5 51 C 28.239323 50.45456 29.087234 50.015125 30 49.6875 L 30 49 L 26 49 z M 31 49 L 31 49.375 C 31.949105 49.134 32.953806 49 34 49 L 31 49 z M 34 49 C 34.350119 49 34.679864 49.056809 35 49.125 L 35 49 L 34 49 z M 36 49 L 36 49.375 C 36.166359 49.420162 36.329887 49.461495 36.5 49.5 L 36.5 49 L 36 49 z M 43.5 49 L 43.5 51 L 45 51 L 45 49 L 43.5 49 z M 46 49 L 46 51 L 50 51 L 50 49 L 46 49 z M 51 49 L 51 51 L 55 51 L 55 49 L 51 49 z M 56 49 L 56 51 L 58.5 51 L 58.5 49 L 56 49 z M 66 49 L 66 51 L 70 51 L 70 49 L 66 49 z M 71 49 L 71 51 L 75 51 L 75 49 L 71 49 z M 76 49 L 76 51 L 80 51 L 80 49 L 76 49 z M 81 49 L 81 51 L 85 51 L 85 49 L 81 49 z M 11 52 L 11 54 L 15 54 L 15 52 L 11 52 z M 16 52 L 16 54 L 20 54 L 20 52 L 16 52 z M 21 52 L 21 54 L 25 54 L 25 52 L 21 52 z M 26 52 L 26 52.4375 C 26.118433 52.28949 26.245349 52.139477 26.375 52 L 26 52 z M 43.5 52 L 43.5 54 L 45 54 L 45 52 L 43.5 52 z M 46 52 L 46 54 L 50 54 L 50 52 L 46 52 z M 51 52 L 51 54 L 51.25 54 C 52.388257 53.488655 53.646432 53.136741 55 53.03125 L 55 52 L 51 52 z M 56 52 L 56 53 C 56.90465 53 57.669416 53.312 58.5 53.5 L 58.5 52 L 56 52 z M 66 52 L 66 54 L 70 54 L 70 52 L 66 52 z M 71 52 L 71 54 L 75 54 L 75 52 L 71 52 z M 76 52 L 76 54 L 80 54 L 80 52 L 76 52 z M 81 52 L 81 54 L 85 54 L 85 52 L 81 52 z M 11 55 L 11 57 L 15 57 L 15 55 L 11 55 z M 16 55 L 16 57 L 20 57 L 20 55 L 16 55 z M 21 55 L 21 57 L 24.53125 57 C 24.517414 56.83443 24.5 56.668837 24.5 56.5 C 24.5 55.98448 24.564178 55.484507 24.6875 55 L 21 55 z M 43.5 55 L 43.5 56.5 C 43.5 56.668837 43.482586 56.83443 43.46875 57 L 45 57 L 45 55 L 43.5 55 z M 46 55 L 46 57 L 47.59375 57 C 48.083409 56.255755 48.710613 55.576446 49.4375 55.03125 C 49.456059 55.017331 49.481312 55.013787 49.5 55 L 46 55 z M 66 55 L 66 57 L 70 57 L 70 55 L 66 55 z M 71 55 L 71 57 L 75 57 L 75 55 L 71 55 z M 76 55 L 76 57 L 80 57 L 80 55 L 76 55 z M 81 55 L 81 57 L 85 57 L 85 55 L 81 55 z M 11 58 L 11 60 L 15 60 L 15 58 L 11 58 z M 16 58 L 16 60 L 20 60 L 20 58 L 16 58 z M 21 58 L 21 60 L 25 60 L 25 58.90625 C 24.8749 58.612641 24.767054 58.31085 24.6875 58 L 21 58 z M 43.3125 58 C 43.131068 58.708933 42.809503 59.389208 42.40625 60 L 45 60 L 45 58 L 43.3125 58 z M 46 58 L 46 60 L 46.53125 60 C 46.589682 59.29932 46.753636 58.630347 47.03125 58 L 46 58 z M 66 58 L 66 60 L 70 60 L 70 58 L 66 58 z M 71 58 L 71 60 L 75 60 L 75 58 L 71 58 z M 76 58 L 76 60 L 80 60 L 80 58 L 76 58 z M 81 58 L 81 60 L 85 60 L 85 58 L 81 58 z M 11 61 L 11 63 L 15 63 L 15 61 L 11 61 z M 16 61 L 16 63 L 20 63 L 20 61 L 16 61 z M 21 61 L 21 63 L 25 63 L 25 61 L 21 61 z M 26 61 L 26 63 L 29.25 63 C 28.601429 62.704393 27.985002 62.348121 27.4375 61.9375 C 27.061092 61.655198 26.725192 61.337439 26.40625 61 L 26 61 z M 41.59375 61 C 41.402965 61.201848 41.212296 61.411097 41 61.59375 L 41 63 L 45 63 L 45 61 L 41.59375 61 z M 46 61 L 46 63 L 47.03125 63 C 46.753634 62.374523 46.589683 61.699243 46.53125 61 L 46 61 z M 66 61 L 66 63 L 70 63 L 70 61 L 66 61 z M 71 61 L 71 63 L 75 63 L 75 61 L 71 61 z M 76 61 L 76 63 L 80 63 L 80 61 L 76 61 z M 81 61 L 81 63 L 85 63 L 85 61 L 81 61 z M 40 62.3125 C 39.605497 62.566361 39.18917 62.799834 38.75 63 L 40 63 L 40 62.3125 z M 65 62.90625 C 64.987283 62.936096 64.981911 62.970347 64.96875 63 L 65 63 L 65 62.90625 z M 11 64 L 11 66 L 15 66 L 15 64 L 11 64 z M 16 64 L 16 66 L 20 66 L 20 64 L 16 64 z M 21 64 L 21 66 L 25 66 L 25 64 L 21 64 z M 26 64 L 26 66 L 30 66 L 30 64 L 26 64 z M 31 64 L 31 66 L 35 66 L 35 64 L 34 64 L 31 64 z M 36 64 L 36 66 L 40 66 L 40 64 L 36 64 z M 41 64 L 41 66 L 45 66 L 45 64 L 41 64 z M 46 64 L 46 66 L 49.53125 66 C 49.501465 65.978219 49.466962 65.959596 49.4375 65.9375 C 48.706026 65.388902 48.084691 64.743609 47.59375 64 L 46 64 z M 64.40625 64 C 63.915309 64.743609 63.293974 65.388902 62.5625 65.9375 C 62.533038 65.959596 62.498535 65.978219 62.46875 66 L 65 66 L 65 64 L 64.40625 64 z M 66 64 L 66 66 L 70 66 L 70 64 L 66 64 z M 71 64 L 71 66 L 75 66 L 75 64 L 71 64 z M 76 64 L 76 66 L 80 66 L 80 64 L 76 64 z M 81 64 L 81 66 L 85 66 L 85 64 L 81 64 z M 11 67 L 11 69 L 15 69 L 15 67 L 11 67 z M 16 67 L 16 69 L 20 69 L 20 67 L 16 67 z M 21 67 L 21 69 L 25 69 L 25 67 L 21 67 z M 26 67 L 26 69 L 30 69 L 30 67 L 26 67 z M 31 67 L 31 69 L 35 69 L 35 67 L 31 67 z M 36 67 L 36 69 L 40 69 L 40 67 L 36 67 z M 41 67 L 41 69 L 45 69 L 45 67 L 41 67 z M 46 67 L 46 69 L 50 69 L 50 67 L 46 67 z M 51 67 L 51 69 L 55 69 L 55 67.96875 C 53.646614 67.85922 52.388109 67.518729 51.25 67 L 51 67 z M 61 67 L 61 69 L 65 69 L 65 67 L 61 67 z M 66 67 L 66 69 L 70 69 L 70 67 L 66 67 z M 71 67 L 71 69 L 75 69 L 75 67 L 71 67 z M 76 67 L 76 69 L 80 69 L 80 67 L 76 67 z M 81 67 L 81 69 L 85 69 L 85 67 L 81 67 z M 60 67.3125 C 58.771872 67.762041 57.426304 68 56 68 L 56 69 L 60 69 L 60 67.3125 z M 11 70 L 11 72 L 15 72 L 15 70 L 11 70 z M 16 70 L 16 72 L 20 72 L 20 70 L 16 70 z M 21 70 L 21 72 L 25 72 L 25 70 L 21 70 z M 26 70 L 26 72 L 30 72 L 30 70 L 26 70 z M 31 70 L 31 72 L 35 72 L 35 70 L 31 70 z M 36 70 L 36 72 L 40 72 L 40 70 L 36 70 z M 41 70 L 41 72 L 45 72 L 45 70 L 41 70 z M 46 70 L 46 72 L 50 72 L 50 70 L 46 70 z M 51 70 L 51 72 L 55 72 L 55 70 L 51 70 z M 56 70 L 56 72 L 60 72 L 60 70 L 56 70 z M 61 70 L 61 72 L 65 72 L 65 70 L 61 70 z M 66 70 L 66 72 L 70 72 L 70 70 L 66 70 z M 71 70 L 71 72 L 75 72 L 75 70 L 71 70 z M 76 70 L 76 72 L 80 72 L 80 70 L 76 70 z M 81 70 L 81 72 L 85 72 L 85 70 L 81 70 z M 11 73 L 11 75 L 15 75 L 15 73 L 11 73 z M 16 73 L 16 75 L 20 75 L 20 73 L 16 73 z M 21 73 L 21 75 L 25 75 L 25 73 L 21 73 z M 26 73 L 26 75 L 30 75 L 30 73 L 26 73 z M 31 73 L 31 75 L 35 75 L 35 73 L 31 73 z M 36 73 L 36 75 L 40 75 L 40 73 L 36 73 z M 41 73 L 41 75 L 45 75 L 45 73 L 41 73 z M 46 73 L 46 75 L 50 75 L 50 73 L 46 73 z M 51 73 L 51 75 L 55 75 L 55 73 L 51 73 z M 56 73 L 56 75 L 60 75 L 60 73 L 56 73 z M 61 73 L 61 75 L 65 75 L 65 73 L 61 73 z M 66 73 L 66 75 L 70 75 L 70 73 L 66 73 z M 71 73 L 71 75 L 75 75 L 75 73 L 71 73 z M 76 73 L 76 75 L 80 75 L 80 73 L 76 73 z M 81 73 L 81 75 L 85 75 L 85 73 L 81 73 z M 11 76 L 11 78 L 15 78 L 15 76 L 11 76 z M 16 76 L 16 78 L 20 78 L 20 76 L 16 76 z M 21 76 L 21 78 L 25 78 L 25 76 L 21 76 z M 26 76 L 26 78 L 30 78 L 30 76 L 26 76 z M 31 76 L 31 78 L 35 78 L 35 76 L 31 76 z M 36 76 L 36 78 L 40 78 L 40 76 L 36 76 z M 41 76 L 41 78 L 45 78 L 45 76 L 41 76 z M 46 76 L 46 78 L 50 78 L 50 76 L 46 76 z M 51 76 L 51 78 L 55 78 L 55 76 L 51 76 z M 56 76 L 56 78 L 60 78 L 60 76 L 56 76 z M 61 76 L 61 78 L 65 78 L 65 76 L 61 76 z M 66 76 L 66 78 L 70 78 L 70 76 L 66 76 z M 71 76 L 71 78 L 75 78 L 75 76 L 71 76 z M 76 76 L 76 78 L 80 78 L 80 76 L 76 76 z M 81 76 L 81 78 L 85 78 L 85 76 L 81 76 z M 11 79 L 11 81 L 15 81 L 15 79 L 11 79 z M 16 79 L 16 81 L 20 81 L 20 79 L 16 79 z M 21 79 L 21 81 L 25 81 L 25 79 L 21 79 z M 26 79 L 26 81 L 30 81 L 30 79 L 26 79 z M 31 79 L 31 81 L 35 81 L 35 79 L 31 79 z M 36 79 L 36 81 L 40 81 L 40 79 L 36 79 z M 41 79 L 41 81 L 45 81 L 45 79 L 41 79 z M 46 79 L 46 81 L 50 81 L 50 79 L 46 79 z M 51 79 L 51 81 L 55 81 L 55 79 L 51 79 z M 56 79 L 56 81 L 60 81 L 60 79 L 56 79 z M 61 79 L 61 81 L 65 81 L 65 79 L 61 79 z M 66 79 L 66 81 L 70 81 L 70 79 L 66 79 z M 71 79 L 71 81 L 75 81 L 75 79 L 71 79 z M 76 79 L 76 81 L 80 81 L 80 79 L 76 79 z M 81 79 L 81 81 L 85 81 L 85 79 L 81 79 z M 11 82 L 11 84 L 15 84 L 15 82 L 11 82 z M 16 82 L 16 84 L 20 84 L 20 82 L 16 82 z M 21 82 L 21 84 L 25 84 L 25 82 L 21 82 z M 26 82 L 26 84 L 30 84 L 30 82 L 26 82 z M 31 82 L 31 84 L 35 84 L 35 82 L 31 82 z M 36 82 L 36 84 L 40 84 L 40 82 L 36 82 z M 41 82 L 41 84 L 45 84 L 45 82 L 41 82 z M 46 82 L 46 84 L 50 84 L 50 82 L 46 82 z M 51 82 L 51 84 L 55 84 L 55 82 L 51 82 z M 56 82 L 56 84 L 60 84 L 60 82 L 56 82 z M 61 82 L 61 84 L 65 84 L 65 82 L 61 82 z M 66 82 L 66 84 L 70 84 L 70 82 L 66 82 z M 71 82 L 71 84 L 75 84 L 75 82 L 71 82 z M 76 82 L 76 84 L 80 84 L 80 82 L 76 82 z M 81 82 L 81 84 L 85 84 L 85 82 L 81 82 z "
+       transform="translate(0,956.36218)"
+       id="rect3792" />
+    <path
+       style="fill:url(#linearGradient5770);fill-opacity:1;stroke:none"
+       d="M 46 19 L 46 21 L 50 21 L 50 19 L 46 19 z M 51 19 L 51 21 L 55 21 L 55 19 L 51 19 z M 46 22 L 46 24 L 50 24 L 50 22 L 46 22 z M 51 22 L 51 24 L 55 24 L 55 22 L 51 22 z M 46 25 L 46 27 L 50 27 L 50 25 L 46 25 z M 51 25 L 51 27 L 55 27 L 55 25 L 51 25 z M 46 28 L 46 29 L 50 29 L 50 28 L 46 28 z M 51 28 L 51 29 L 55 29 L 55 28 L 51 28 z M 56 28 L 56 29 L 60 29 L 60 28 L 56 28 z M 61 28 L 61 29 L 64 29 L 65 29 L 65 28 L 61 28 z M 31 31 L 31 33 L 35 33 L 35 31 L 31 31 z M 36 31 L 36 33 L 36.5 33 L 36.5 31 L 36 31 z M 31 34 L 31 36 L 35 36 L 35 34 L 31 34 z M 36 34 L 36 36 L 36.5 36 L 36.5 34 L 36 34 z M 31 37 L 31 39 L 35 39 L 35 37 L 31 37 z M 36 37 L 36 39 L 36.5 39 L 36.5 38.5 L 36.5 37 L 36 37 z M 31 40 L 31 42 L 35 42 L 35 40 L 31 40 z M 36 40 L 36 42 L 36.5 42 L 36.5 40 L 36 40 z M 46 40 L 46 42 L 50 42 L 50 40 L 46 40 z M 51 40 L 51 42 L 55 42 L 55 40 L 51 40 z M 56 40 L 56 42 L 58.5 42 L 58.5 40 L 56 40 z M 76 40 L 76 42 L 80 42 L 80 40 L 76 40 z M 31 43 L 31 45 L 35 45 L 35 43 L 31 43 z M 36 43 L 36 45 L 36.5 45 L 36.5 43 L 36 43 z M 46 43 L 46 45 L 50 45 L 50 43 L 46 43 z M 51 43 L 51 45 L 55 45 L 55 43 L 51 43 z M 56 43 L 56 45 L 58.5 45 L 58.5 43 L 56 43 z M 76 43 L 76 45 L 80 45 L 80 43 L 76 43 z M 11 46 L 11 48 L 15 48 L 15 46 L 11 46 z M 16 46 L 16 48 L 20 48 L 20 46 L 16 46 z M 31 46 L 31 48 L 35 48 L 35 46 L 31 46 z M 36 46 L 36 48 L 36.5 48 L 36.5 46 L 36 46 z M 43.5 46 L 43.5 48 L 45 48 L 45 46 L 43.5 46 z M 46 46 L 46 48 L 50 48 L 50 46 L 46 46 z M 51 46 L 51 48 L 55 48 L 55 46 L 51 46 z M 56 46 L 56 48 L 58.5 48 L 58.5 46 L 56 46 z M 76 46 L 76 48 L 80 48 L 80 46 L 76 46 z M 11 49 L 11 51 L 15 51 L 15 49 L 11 49 z M 16 49 L 16 51 L 20 51 L 20 49 L 16 49 z M 31 49 L 31 49.375 C 31.949105 49.134 32.953806 49 34 49 L 31 49 z M 34 49 C 34.350119 49 34.679864 49.056809 35 49.125 L 35 49 L 34 49 z M 36 49 L 36 49.375 C 36.166359 49.420162 36.329887 49.461495 36.5 49.5 L 36.5 49 L 36 49 z M 43.5 49 L 43.5 51 L 45 51 L 45 49 L 43.5 49 z M 46 49 L 46 51 L 50 51 L 50 49 L 46 49 z M 51 49 L 51 51 L 55 51 L 55 49 L 51 49 z M 56 49 L 56 51 L 58.5 51 L 58.5 49 L 56 49 z M 76 49 L 76 51 L 80 51 L 80 49 L 76 49 z M 11 52 L 11 54 L 15 54 L 15 52 L 11 52 z M 16 52 L 16 54 L 20 54 L 20 52 L 16 52 z M 26 52 L 26 52.4375 C 26.118433 52.28949 26.245349 52.139477 26.375 52 L 26 52 z M 43.5 52 L 43.5 54 L 45 54 L 45 52 L 43.5 52 z M 46 52 L 46 54 L 50 54 L 50 52 L 46 52 z M 51 52 L 51 54 L 51.25 54 C 52.388257 53.488655 53.646432 53.136741 55 53.03125 L 55 52 L 51 52 z M 56 52 L 56 53 C 56.90465 53 57.669416 53.312 58.5 53.5 L 58.5 52 L 56 52 z M 76 52 L 76 54 L 80 54 L 80 52 L 76 52 z M 11 55 L 11 57 L 15 57 L 15 55 L 11 55 z M 16 55 L 16 57 L 20 57 L 20 55 L 16 55 z M 43.5 55 L 43.5 56.5 C 43.5 56.668837 43.482586 56.83443 43.46875 57 L 45 57 L 45 55 L 43.5 55 z M 46 55 L 46 57 L 47.59375 57 C 48.083409 56.255755 48.710613 55.576446 49.4375 55.03125 C 49.456059 55.017331 49.481312 55.013787 49.5 55 L 46 55 z M 76 55 L 76 57 L 80 57 L 80 55 L 76 55 z M 11 58 L 11 60 L 15 60 L 15 58 L 11 58 z M 16 58 L 16 60 L 20 60 L 20 58 L 16 58 z M 21 58 L 21 60 L 25 60 L 25 58.90625 C 24.8749 58.612641 24.767054 58.31085 24.6875 58 L 21 58 z M 43.3125 58 C 43.131068 58.708933 42.809503 59.389208 42.40625 60 L 45 60 L 45 58 L 43.3125 58 z M 46 58 L 46 60 L 46.53125 60 C 46.589682 59.29932 46.753636 58.630347 47.03125 58 L 46 58 z M 76 58 L 76 60 L 80 60 L 80 58 L 76 58 z M 11 61 L 11 63 L 15 63 L 15 61 L 11 61 z M 16 61 L 16 63 L 20 63 L 20 61 L 16 61 z M 21 61 L 21 63 L 25 63 L 25 61 L 21 61 z M 26 61 L 26 63 L 29.25 63 C 28.601429 62.704393 27.985002 62.348121 27.4375 61.9375 C 27.061092 61.655198 26.725192 61.337439 26.40625 61 L 26 61 z M 41.59375 61 C 41.402965 61.201848 41.212296 61.411097 41 61.59375 L 41 63 L 45 63 L 45 61 L 41.59375 61 z M 46 61 L 46 63 L 47.03125 63 C 46.753634 62.374523 46.589683 61.699243 46.53125 61 L 46 61 z M 66 61 L 66 63 L 70 63 L 70 61 L 66 61 z M 71 61 L 71 63 L 75 63 L 75 61 L 71 61 z M 76 61 L 76 63 L 80 63 L 80 61 L 76 61 z M 40 62.3125 C 39.605497 62.566361 39.18917 62.799834 38.75 63 L 40 63 L 40 62.3125 z M 65 62.90625 C 64.987283 62.936096 64.981911 62.970347 64.96875 63 L 65 63 L 65 62.90625 z M 11 64 L 11 66 L 15 66 L 15 64 L 11 64 z M 16 64 L 16 66 L 20 66 L 20 64 L 16 64 z M 21 64 L 21 66 L 25 66 L 25 64 L 21 64 z M 26 64 L 26 66 L 30 66 L 30 64 L 26 64 z M 31 64 L 31 66 L 35 66 L 35 64 L 34 64 L 31 64 z M 36 64 L 36 66 L 40 66 L 40 64 L 36 64 z M 41 64 L 41 66 L 45 66 L 45 64 L 41 64 z M 46 64 L 46 66 L 49.53125 66 C 49.501465 65.978219 49.466962 65.959596 49.4375 65.9375 C 48.706026 65.388902 48.084691 64.743609 47.59375 64 L 46 64 z M 64.40625 64 C 63.915309 64.743609 63.293974 65.388902 62.5625 65.9375 C 62.533038 65.959596 62.498535 65.978219 62.46875 66 L 65 66 L 65 64 L 64.40625 64 z M 66 64 L 66 66 L 70 66 L 70 64 L 66 64 z M 71 64 L 71 66 L 75 66 L 75 64 L 71 64 z M 76 64 L 76 66 L 80 66 L 80 64 L 76 64 z M 11 67 L 11 69 L 15 69 L 15 67 L 11 67 z M 16 67 L 16 69 L 20 69 L 20 67 L 16 67 z M 21 67 L 21 69 L 25 69 L 25 67 L 21 67 z M 26 67 L 26 69 L 30 69 L 30 67 L 26 67 z M 31 67 L 31 69 L 35 69 L 35 67 L 31 67 z M 36 67 L 36 69 L 40 69 L 40 67 L 36 67 z M 41 67 L 41 69 L 45 69 L 45 67 L 41 67 z M 46 67 L 46 69 L 50 69 L 50 67 L 46 67 z M 51 67 L 51 69 L 55 69 L 55 67.96875 C 53.646614 67.85922 52.388109 67.518729 51.25 67 L 51 67 z M 61 67 L 61 69 L 65 69 L 65 67 L 61 67 z M 66 67 L 66 69 L 70 69 L 70 67 L 66 67 z M 71 67 L 71 69 L 75 69 L 75 67 L 71 67 z M 76 67 L 76 69 L 80 69 L 80 67 L 76 67 z M 60 67.3125 C 58.771872 67.762041 57.426304 68 56 68 L 56 69 L 60 69 L 60 67.3125 z M 11 70 L 11 72 L 15 72 L 15 70 L 11 70 z M 16 70 L 16 72 L 20 72 L 20 70 L 16 70 z M 21 70 L 21 72 L 25 72 L 25 70 L 21 70 z M 26 70 L 26 72 L 30 72 L 30 70 L 26 70 z M 31 70 L 31 72 L 35 72 L 35 70 L 31 70 z M 36 70 L 36 72 L 40 72 L 40 70 L 36 70 z M 41 70 L 41 72 L 45 72 L 45 70 L 41 70 z M 46 70 L 46 72 L 50 72 L 50 70 L 46 70 z M 51 70 L 51 72 L 55 72 L 55 70 L 51 70 z M 56 70 L 56 72 L 60 72 L 60 70 L 56 70 z M 61 70 L 61 72 L 65 72 L 65 70 L 61 70 z M 66 70 L 66 72 L 70 72 L 70 70 L 66 70 z M 71 70 L 71 72 L 75 72 L 75 70 L 71 70 z M 76 70 L 76 72 L 80 72 L 80 70 L 76 70 z M 81 70 L 81 72 L 85 72 L 85 70 L 81 70 z M 11 73 L 11 75 L 15 75 L 15 73 L 11 73 z M 16 73 L 16 75 L 20 75 L 20 73 L 16 73 z M 21 73 L 21 75 L 25 75 L 25 73 L 21 73 z M 26 73 L 26 75 L 30 75 L 30 73 L 26 73 z M 31 73 L 31 75 L 35 75 L 35 73 L 31 73 z M 36 73 L 36 75 L 40 75 L 40 73 L 36 73 z M 41 73 L 41 75 L 45 75 L 45 73 L 41 73 z M 46 73 L 46 75 L 50 75 L 50 73 L 46 73 z M 51 73 L 51 75 L 55 75 L 55 73 L 51 73 z M 56 73 L 56 75 L 60 75 L 60 73 L 56 73 z M 61 73 L 61 75 L 65 75 L 65 73 L 61 73 z M 66 73 L 66 75 L 70 75 L 70 73 L 66 73 z M 71 73 L 71 75 L 75 75 L 75 73 L 71 73 z M 76 73 L 76 75 L 80 75 L 80 73 L 76 73 z M 81 73 L 81 75 L 85 75 L 85 73 L 81 73 z M 11 76 L 11 78 L 15 78 L 15 76 L 11 76 z M 16 76 L 16 78 L 20 78 L 20 76 L 16 76 z M 21 76 L 21 78 L 25 78 L 25 76 L 21 76 z M 26 76 L 26 78 L 30 78 L 30 76 L 26 76 z M 31 76 L 31 78 L 35 78 L 35 76 L 31 76 z M 36 76 L 36 78 L 40 78 L 40 76 L 36 76 z M 41 76 L 41 78 L 45 78 L 45 76 L 41 76 z M 46 76 L 46 78 L 50 78 L 50 76 L 46 76 z M 51 76 L 51 78 L 55 78 L 55 76 L 51 76 z M 56 76 L 56 78 L 60 78 L 60 76 L 56 76 z M 61 76 L 61 78 L 65 78 L 65 76 L 61 76 z M 66 76 L 66 78 L 70 78 L 70 76 L 66 76 z M 71 76 L 71 78 L 75 78 L 75 76 L 71 76 z M 76 76 L 76 78 L 80 78 L 80 76 L 76 76 z M 81 76 L 81 78 L 85 78 L 85 76 L 81 76 z M 11 79 L 11 81 L 15 81 L 15 79 L 11 79 z M 16 79 L 16 81 L 20 81 L 20 79 L 16 79 z M 21 79 L 21 81 L 25 81 L 25 79 L 21 79 z M 26 79 L 26 81 L 30 81 L 30 79 L 26 79 z M 31 79 L 31 81 L 35 81 L 35 79 L 31 79 z M 36 79 L 36 81 L 40 81 L 40 79 L 36 79 z M 41 79 L 41 81 L 45 81 L 45 79 L 41 79 z M 46 79 L 46 81 L 50 81 L 50 79 L 46 79 z M 51 79 L 51 81 L 55 81 L 55 79 L 51 79 z M 56 79 L 56 81 L 60 81 L 60 79 L 56 79 z M 61 79 L 61 81 L 65 81 L 65 79 L 61 79 z M 66 79 L 66 81 L 70 81 L 70 79 L 66 79 z M 71 79 L 71 81 L 75 81 L 75 79 L 71 79 z M 76 79 L 76 81 L 80 81 L 80 79 L 76 79 z M 81 79 L 81 81 L 85 81 L 85 79 L 81 79 z M 11 82 L 11 84 L 15 84 L 15 82 L 11 82 z M 16 82 L 16 84 L 20 84 L 20 82 L 16 82 z M 21 82 L 21 84 L 25 84 L 25 82 L 21 82 z M 26 82 L 26 84 L 30 84 L 30 82 L 26 82 z M 31 82 L 31 84 L 35 84 L 35 82 L 31 82 z M 36 82 L 36 84 L 40 84 L 40 82 L 36 82 z M 41 82 L 41 84 L 45 84 L 45 82 L 41 82 z M 46 82 L 46 84 L 50 84 L 50 82 L 46 82 z M 51 82 L 51 84 L 55 84 L 55 82 L 51 82 z M 56 82 L 56 84 L 60 84 L 60 82 L 56 82 z M 61 82 L 61 84 L 65 84 L 65 82 L 61 82 z M 66 82 L 66 84 L 70 84 L 70 82 L 66 82 z M 71 82 L 71 84 L 75 84 L 75 82 L 71 82 z M 76 82 L 76 84 L 80 84 L 80 82 L 76 82 z M 81 82 L 81 84 L 85 84 L 85 82 L 81 82 z "
+       transform="translate(0,956.36218)"
+       id="rect5337" />
+    <path
+       style="fill:url(#linearGradient3814);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 38,986.86218 0,8 0,12.81242 c -1.175676,-0.5092 -2.54471,-0.8124 -4,-0.8124 -4.418278,0 -8,2.6862 -8,6 0,3.3136 3.581722,6 8,6 4.418278,0 8.000002,-2.6864 8.000002,-6 l 0,-18.00002 18,0 0,16.81242 c -1.17568,-0.5092 -2.54472,-0.8124 -4,-0.8124 -4.41828,0 -8,2.6862 -8,6 0,3.3136 3.58172,6 8,6 4.41828,0 8,-2.6864 8,-6 l 0,-24.00002 0,-6 -26.000002,0 z"
+       id="path4060"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
