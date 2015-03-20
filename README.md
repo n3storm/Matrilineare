@@ -1,6 +1,8 @@
 # Matrilineare
 Linux desktop icon theme (Gtk, Gnome3, Xfce4) by Sora-Meliae
 
+![Preview](https://raw.githubusercontent.com/n3storm/Matrilineare/master/matrilineare__version_0_3__by_sora_meliae-preview.png)
+
 This is an icon-theme maintained with Xfce in mind, but it 
 supports other desktops like Gnome3 as well.
 
